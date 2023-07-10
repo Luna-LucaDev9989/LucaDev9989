@@ -13,4 +13,4 @@ I'm a little developer for Discord.js bots
 ### Social Media
 
 - **YouTube**: [@LucaDev9989](https://www.youtube.com/@LucaDev9989)
-- **Discord**: [LucaDev9989#9989](https://discord.com/users/925463543489396786)
+- **Discord**: [lucadev9989](https://discord.com/users/925463543489396786)
