@@ -4,7 +4,7 @@
 
 I use **they/them** pronouns
 
-I'm a developer for Discord.js bots
+I'm a Discord bot developer
 
 ## Socials:
 
