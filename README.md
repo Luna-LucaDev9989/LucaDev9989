@@ -2,8 +2,6 @@
 
 ## About me
 
-I use **they/them** pronouns
-
 I'm a Discord bot developer
 
 ## Socials:
