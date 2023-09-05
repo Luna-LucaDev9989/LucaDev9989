@@ -19,8 +19,3 @@ I'm a Discord bot developer
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/LucaDev9989)<br/>
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://github.com/LucaDev9989)
 [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/LucaDev9989)<br/>
-
-## GitHub Stats:
-
-[![](https://github-readme-streak-stats.herokuapp.com/?user=LucaDev9989&theme=dark&hide_border=true)](https://github.com/LucaDev9989)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaDev9989&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)](https://github.com/LucaDev9989)<br/>
