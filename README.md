@@ -2,11 +2,10 @@
 
 ## About me
 
-I'm a Discord bot developer
+I'm a Javascript developer who makes Discord bots with discord.js
 
 ## Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/925463543489396786)<br/>
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@LucaDev9989)<br/>
 [![Instagram](https://img.shields.io/badge/Instagram-%2381379A.svg?logo=instagram&logoColor=white)](https://instagram.com/LucaDev9989)<br/>
 
