@@ -20,3 +20,7 @@ I'm a Discord bot developer
 [![CSS3](https://img.shields.io/badge/CSS3-black.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://github.com/LucaDev9989)<br/>
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-black?style=for-the-badge&logo=Cloudflare&logoColor=F38020)](https://github.com/LucaDev9989)
 [![Vercel](https://img.shields.io/badge/Vercel-black.svg?style=for-the-badge&logo=vercel&logoColor=23000000)](https://github.com/LucaDev9989)<br/>
+
+## Soptify:
+
+![Soptify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=xgjjtfuf4d6pzu68fx03cry0r&unique={true|1|on|yes})
