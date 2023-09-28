@@ -6,16 +6,17 @@ I'm a Discord bot developer
 
 ## Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/925463543489396786)<br/>
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@LucaDev9989)<br/>
-[![Instagram](https://img.shields.io/badge/Instagram-%2381379A.svg?logo=instagram&logoColor=white)](https://instagram.com/LucaDev9989)<br/>
+[![Discord](https://img.shields.io/badge/Discord-black.svg?logo=discord&logoColor=%237289DA)](https://discord.com/users/925463543489396786)<br/>
+[![YouTube](https://img.shields.io/badge/YouTube-black.svg?logo=youtube&logoColor=%23FF0000)](https://www.youtube.com/@LucaDev9989)<br/>
+[![Instagram](https://img.shields.io/badge/Instagram-black.svg?logo=instagram&logoColor=purple)](https://instagram.com/LucaDev9989)<br/>
 
 ## Tech Stack:
 
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/LucaDev9989)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/LucaDev9989)<br/>
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/LucaDev9989)<br/>
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/LucaDev9989)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/LucaDev9989)<br/>
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)](https://github.com/LucaDev9989)
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/LucaDev9989)<br/>
+[![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=%6DA55F)](https://github.com/LucaDev9989)
+[![MongoDB](https://img.shields.io/badge/MongoDB-black.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b)](https://github.com/LucaDev9989)<br/>
+[![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/LucaDev9989)
+[![C#](https://img.shields.io/badge/CSharp-black.svg?style=for-the-badge&logo=csharp&logoColor=%231572B6)](https://github.com/LucaDev9989)<br/>
+[![HTML5](https://img.shields.io/badge/HTML5-black.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)](https://github.com/LucaDev9989)
+[![CSS3](https://img.shields.io/badge/CSS3-black.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://github.com/LucaDev9989)<br/>
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-black?style=for-the-badge&logo=Cloudflare&logoColor=F38020)](https://github.com/LucaDev9989)
+[![Vercel](https://img.shields.io/badge/Vercel-black.svg?style=for-the-badge&logo=vercel&logoColor=23000000)](https://github.com/LucaDev9989)<br/>
