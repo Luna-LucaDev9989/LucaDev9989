@@ -12,15 +12,11 @@ I'm a Discord bot developer
 
 ## Tech Stack
 
-[![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=%6DA55F)](https://github.com/LucaDev9989)
-[![MongoDB](https://img.shields.io/badge/MongoDB-black.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b)](https://github.com/LucaDev9989)<br/>
-[![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/LucaDev9989)
-[![C#](https://img.shields.io/badge/CSharp-black.svg?style=for-the-badge&logo=csharp&logoColor=%231572B6)](https://github.com/LucaDev9989)<br/>
-[![HTML5](https://img.shields.io/badge/HTML5-black.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)](https://github.com/LucaDev9989)
-[![CSS3](https://img.shields.io/badge/CSS3-black.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://github.com/LucaDev9989)<br/>
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-black?style=for-the-badge&logo=Cloudflare&logoColor=F38020)](https://github.com/LucaDev9989)
-[![Vercel](https://img.shields.io/badge/Vercel-black.svg?style=for-the-badge&logo=vercel&logoColor=23000000)](https://github.com/LucaDev9989)<br/>
-
-## Spotify
-
-![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=xgjjtfuf4d6pzu68fx03cry0r&unique={true|1|on|yes})
+[![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=%6DA55F)](https://www.w3schools.com/nodejs/default.asp)
+[![MongoDB](https://img.shields.io/badge/MongoDB-black.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b)](https://www.w3schools.com/mongodb/index.php)<br/>
+[![JavaScript](https://img.shields.io/badge/JavaScript-black.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.w3schools.com/js/default.asp)
+[![C#](https://img.shields.io/badge/CSharp-black.svg?style=for-the-badge&logo=csharp&logoColor=%231572B6)](https://www.w3schools.com/cs/index.php)<br/>
+[![HTML5](https://img.shields.io/badge/HTML5-black.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)](https://www.w3schools.com/html/default.asp)
+[![CSS3](https://img.shields.io/badge/CSS3-black.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://www.w3schools.com/css/default.asp)<br/>
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-black?style=for-the-badge&logo=Cloudflare&logoColor=F38020)](https://www.cloudflare.com)
+[![Vercel](https://img.shields.io/badge/Vercel-black.svg?style=for-the-badge&logo=vercel&logoColor=23000000)](https://vercel.com)<br/>
