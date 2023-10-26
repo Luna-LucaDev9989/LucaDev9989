@@ -8,7 +8,6 @@ I'm a Discord bot developer
 
 [![Discord](https://img.shields.io/badge/Discord-black.svg?logo=discord&logoColor=%237289DA)](https://discord.com/users/925463543489396786)<br/>
 [![YouTube](https://img.shields.io/badge/YouTube-black.svg?logo=youtube&logoColor=%23FF0000)](https://www.youtube.com/@LucaDev9989)<br/>
-[![Instagram](https://img.shields.io/badge/Instagram-black.svg?logo=instagram&logoColor=purple)](https://instagram.com/LucaDev9989)<br/>
 
 ## Tech Stack
 
