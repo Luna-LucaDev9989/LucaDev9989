@@ -8,6 +8,8 @@ I'm a Discord bot developer
 
 [![](https://skillicons.dev/icons?i=discord)](https://discord.com/users/925463543489396786)
 
+
+
 ## Programming platforms
 
 [![](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
